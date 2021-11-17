@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ag-grid-child"
+  "defaultProject": "ag-grid-child",
+  "cli": {
+    "analytics": false
+  }
 }
